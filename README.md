@@ -15,7 +15,7 @@ https://github.com/prakharninja0927/PowerBi-Projects/blob/main/SuperStoreData(US
 
 # Viewing the Notebooks
 You can view a fully rendered notebook by following this nbviewer link:
-https://nbviewer.org/github/corerage/US-Super-Store-Analysis/blob/main/US%20Super%20Store%20Sales%20Analysis.ipynb
+https://nbviewer.org/github/corerage/US-Super-Store-Analysis/blob/main/.ipynb_checkpoints/US%20Super%20Store%20Sales%20Analysis-checkpoint.ipynb
 
 ## Data Exploration
 
