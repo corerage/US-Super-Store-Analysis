@@ -17,6 +17,10 @@ https://github.com/prakharninja0927/PowerBi-Projects/blob/main/SuperStoreData(US
 You can view a fully rendered notebook by following this nbviewer link:
 https://nbviewer.org/github/corerage/test/blob/main/notebook.ipynb
 
+# View report
+You can view a full report of the analysis by this following this link:
+https://github.com/corerage/US-Super-Store-Analysis/blob/main/US%20Super-store%20report%20.pdf
+
 ## Data Exploration
 
 
